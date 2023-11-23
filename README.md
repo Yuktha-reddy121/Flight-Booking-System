@@ -12,7 +12,7 @@ The project is divided into several components:
 <br>• User-friendly interface for easy navigation and data entry
 <br>• Admin dashboard for Flights and airlines management
 <br>• Easy Booking of Flights
-The features also include ......
+<br>The features also include ......
 <br>•Admin and User Dashboard
 <br>•Home
 <br>•Book
